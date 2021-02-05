@@ -8,7 +8,7 @@ I have made the github repo that will act as a space to store all my assignments
 
 ## Core Assignment 2: JSON
 
-For this Assignment I decided to use Node.js to make a live server to parse JSON objects and show them in the console.
+For this Assignment I decided to HTML and JavaScript to Display a self made student object and then stringified it and parsed it so I could display it on my HTML web page.
 
 ## Core Assignment 3: API
 
