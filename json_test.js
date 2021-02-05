@@ -17,6 +17,8 @@ var div = document.createElement("div");
 var div2 = document.createElement("div2");
 var div3 = document.createElement("div");
 
+
+//If I had more people in my student object, I would make it an array and loop through the array and do these 3 actions for every iteration.
 div.innerHTML = 'Name: ' + studentToJSON.name;
 mainContainer.appendChild(div);
 
